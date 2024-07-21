@@ -18,7 +18,8 @@ Key components include:
 - App.jsx : Main container of the TODO APP
 - TodoInput: Input form for adding new tasks.
 - TodoList: Display the list of tasks.
-- TodoCard: the visual representation of an individual task or item that needs to be completed. 
+- TodoCard: the visual representation of an individual task or item that needs to be completed.
+  
 ## Functionality:
 ### Adding New TODOs:
 - Enable users to add new tasks to the list.

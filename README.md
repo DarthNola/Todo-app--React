@@ -1,8 +1,8 @@
 # CRUD TODO APP  WITH REACT
 The goal of this project :
 1. Was to learn the basic of react from creating react components
-2. learning how to pass pass data between components
-3.  Gain basic of the react's state managment
+2. learning how to pass data between components
+3.  Gain basic of the react's state management
  
 ## Setting Up Your React App:
  - Created the  new React app using Vite toochain .
@@ -28,4 +28,5 @@ Key components include:
 ## Persisting Data:
 -  TODO data is stored using localStorage.
 -  Implement functionality to read and write data to localStorage.
+  
   Link : https://react-todo-app-vuyo.netlify.app/
